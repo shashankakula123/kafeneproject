@@ -1,0 +1,72 @@
+.container {
+    padding: 112px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 28px;
+    
+}
+#fillter {
+    font-weight: 700;
+}
+.filters {
+    width: 190px;
+
+}
+
+label {
+    width: 100%;
+    display: block;
+}
+
+.checkBox {
+    margin: 14px 0;
+    margin-right: 12px;
+}
+
+.filters p {
+    margin: 20px 0;
+}
+
+.table-wrapper {
+    display: flex;
+}
+
+.table-list {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.w5 {
+    width: 95px;
+}
+
+td,
+th {
+    padding: 15px 20px;
+    text-align: left;
+}
+.date-sie {
+    width: 157px;
+}
+
+tbody tr {
+    background-color: #fff;
+    border-bottom: 6px solid #f6f7fb;
+}
+
+.text-fade {
+    color: #8c8c8c;
+}
+
+.text-fade-below {
+    font-size: 15px;
+    margin-top: 3px;
+    font-weight: 700;
+}
