@@ -25,7 +25,7 @@ $(document).ready(function() {
                 success: (success) => {
                     settingLocalStrg('login', true)
                     alert('You are Successfully LoggedIn....');
-                    window.location.href = '/kafeneproject/order.html'
+                    window.location.href = '/order.html'
                 }
             });
         } else {
